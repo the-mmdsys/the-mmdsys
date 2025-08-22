@@ -27,9 +27,10 @@
 </p>
 
 ## More
-- ▶️ Demo: [Live demo of DORF](https://your-demo-link.example)
+- 📄 Resume: [View my resume (PDF)](https://raw.githubusercontent.com/the-mmdsys/MMDSYS-bot/main/MY%20CV.pdf)
 - ⚙️ Stack: Python • AI • Docker • Telegram Bot • Database
 - 💬 Contact: [sp.mmdsys@gmail.com](mailto:sp.mmdsys@gmail.com)
+
  
 
 
