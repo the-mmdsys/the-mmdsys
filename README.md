@@ -18,7 +18,7 @@
 ---
 
 ## 🔥 Pinned Projects
-- **DORF** — Telegram automation bot — `github.com/the-mmdsys/dorf-bot`  
+- **DORF** — [Notification bot](mailto:https://github.com/the-mmdsys/Notification-robot) 
 - **insta2tg** — Insta → Telegram poster — `github.com/the-mmdsys/insta2tg`  
 - **small-api** — Tiny REST service (Dockerized) — `github.com/the-mmdsys/small-api`
 
