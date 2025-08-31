@@ -19,8 +19,8 @@
 
 ## 🔥 Pinned Projects
 - **DORF** — [Notification bot](https://github.com/the-mmdsys/Notification-robot) 
-- **insta2tg** — Insta → Telegram poster — `github.com/the-mmdsys/insta2tg`  
-- **small-api** — Tiny REST service (Dockerized) — `github.com/the-mmdsys/small-api`
+- **BookStore** — [BookStore app](https://github.com/the-mmdsys/Bookstore-app) 
+- **Solo Whale** — [Trading Robot]
 
 <p align="center">
   <img src="https://media.giphy.com/media/1rPY8XIGWozEhm215a/giphy.gif" alt="under construction" width="640" />
