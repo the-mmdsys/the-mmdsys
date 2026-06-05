@@ -26,7 +26,7 @@
 
 ## 🔥 Pinned Projects
 - **DORF** — [Notification bot](https://github.com/the-mmdsys/Notification-robot) 
-- **BookStore** — [BookStore app](https://github.com/the-mmdsys/Bookstore-app) 
+- **Warehouse-Panel** — [Django](https://github.com/the-mmdsys/Warehouse-Panel) 
 - **Solo Whale** — [Trading Robot]
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ## More
 - 📄 Resume: [View my resume (PDF)](https://www.canva.com/design/DAGwym5cWHs/5oVljP0zRodbkLBQyTpeRA/view?utm_content=DAGwym5cWHs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4be29ba331)
-- ⚙️ Stack: Python • AI • Docker • Telegram Bot • Database
+- ⚙️ Stack: Python • AI • Docker • Database
 - 💬 Contact: [sp.mmdsys@gmail.com](mailto:sp.mmdsys@gmail.com)
 
  
