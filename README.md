@@ -34,7 +34,7 @@
 </p>
 
 ## More
-- 📄 Resume: [View my resume (PDF)](https://www.canva.com/design/DAGwym5cWHs/5oVljP0zRodbkLBQyTpeRA/view?utm_content=DAGwym5cWHs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4be29ba331)
+- 📄 Resume: [View my resume (PDF)](https://www.canva.com/dggesign/DAGwym5cWHs/5oVljP0zRodbkLBQyTpeRA/view?utm_content=DAGwym5cWHs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4be29ba331)
 - ⚙️ Stack: Python • AI • Docker • Database
 - 💬 Contact: [sp.mmdsys@gmail.com](mailto:sp.mmdsys@gmail.com)
 
